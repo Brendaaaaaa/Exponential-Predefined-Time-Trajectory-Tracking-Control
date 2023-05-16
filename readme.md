@@ -1,4 +1,4 @@
-# Exponential Predefined Time Stabilized Trajectory Tracking Control For Fixed-wing UAV With Input Saturation
+# Exponential Predefined Time Trajectory Tracking Control For Fixed-wing UAV With Input Saturation
 
 This project contains 1 '.slx' file and 4 '.m' files as follows:  
 1. 'paper_Exponential_Predefined_102.slx' is the main file.  

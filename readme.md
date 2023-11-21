@@ -7,7 +7,7 @@ This project contains 1 '.slx' file and 4 '.m' files as follows:
 4. 'im_predefined.m' is the method of literature [11].  
 5. 'plot_figure.m' is used for ploting.
 
-And a related video has been posted at https://www.bilibili.com/video/BV1mv4y1E7pE/?vd\_source=74ca5ae09a4dea0501029dd8206eef3a
+And a related video has been posted at https://www.bilibili.com/video/BV1mv4y1E7pE/
 
 ## Usage
 The simulation environment is set as follows:  
